@@ -20,3 +20,11 @@ pyautogui para simular a interação do usuário com a interface gráfica.
 ## Autor
 -Victor Lima Silva
 
+## Observação
+
+Este projeto é antigo e foi mantido público apenas como histórico de aprendizado.
+Hoje eu resolveria esse problema de outra forma, usando:
+- separação de responsabilidades
+- tratamento adequado de erros
+- testes automatizados
+- melhor organização de pastas
